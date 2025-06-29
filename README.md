@@ -34,7 +34,7 @@ I specialize in:
 ---
 
 ### 🔭 Projects
-- 🧠 **PicoC Interpreter** – A mini C interpreter with AST visualization.  
+- 🧠 **Small C Interpreter** – A mini C interpreter for evaluating c code and c style expression using concept of Compiler design  with AST visualization.  
 - 🧩 **Sudoku Validator Web App** – Frontend + Flask + C++ validator integration using multithreading.  
 
 ---
