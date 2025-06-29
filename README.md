@@ -3,7 +3,7 @@
 
 <!-- 🧠 Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Ayush+Upreti;I+%E2%9D%A4%EF%B8%8F+Programming+and+Cloud+Tech;Currently+Building+Cool+Projects+in+C%2C+Python%2C+and+Flask" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hello+Everyone!+I'm+Ayush+Upreti;I+%E2%9D%A4%EF%B8%8F+Programming+and+Cloud+Tech;Currently+Building+Cool+Projects+in+C%2C+Python%2C+and+Flask" />
 </p>
 
 <p align="center">
@@ -55,8 +55,8 @@ I specialize in:
 ---
 
 ### 📄 Resume / PGP
-📥 [Click to Download Resume (PDF)](https://your-link-here.com/AyushUpreti_Resume.pdf)  
-🔐 [Public PGP Key](https://your-link-here.com/ayush-upreti-publickey.asc)
+📥 [Click to Download Resume (PDF)](https://shorturl.at/fnYsf)  
+
 
 ---
 
@@ -82,13 +82,6 @@ I specialize in:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AYUSH-2004&theme=radical" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/AYUSH-2004/AYUSH-2004/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
