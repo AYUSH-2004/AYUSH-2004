@@ -1,6 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Ayush Upreti</h1>
 <h3 align="center">🚀 Aspiring Software Developer | Programming Enthusiast | B.Tech CSE | 2025</h3>
 
+<!-- 🧠 Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Ayush+Upreti;I+%E2%9D%A4%EF%B8%8F+Programming+and+Cloud+Tech;Currently+Building+Cool+Projects+in+C%2C+Python%2C+and+Flask" />
+</p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
@@ -17,7 +22,7 @@
 
 ---
 
-🌟 I'm a passionate B.Tech Computer Science student from Graphic Era Hill University, Dehradun; with a love for building impactful tech solutions 🚀.  
+🌟 I'm a passionate B.Tech Computer Science student from Graphic Era Hill University, Dehradun, with a love for building impactful tech solutions 🚀.  
 I specialize in:
 
 - 🔧 **Languages:** Java, Python, C++, DBMS, C  
@@ -30,7 +35,7 @@ I specialize in:
 
 ### 🔭 Projects
 - 🧠 **PicoC Interpreter** – A mini C interpreter with AST visualization.  
-- 🧩 **Sudoku Validator Web App** – Frontend + Flask + C++ validator integration using concept of multithreading.  
+- 🧩 **Sudoku Validator Web App** – Frontend + Flask + C++ validator integration using multithreading.  
 
 ---
 
@@ -46,6 +51,12 @@ I specialize in:
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ayush-upreti-6390662a6/)  
 - 📬 Email: ayushupreti@gmail.com  
 - 🌐 [Portfolio Website](https://ayushupretiportfolio.framer.website/)  
+
+---
+
+### 📄 Resume / PGP
+📥 [Click to Download Resume (PDF)](https://your-link-here.com/AyushUpreti_Resume.pdf)  
+🔐 [Public PGP Key](https://your-link-here.com/ayush-upreti-publickey.asc)
 
 ---
 
@@ -75,8 +86,16 @@ I specialize in:
 
 ---
 
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/AYUSH-2004/AYUSH-2004/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ### 🏆 Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AYUSH-2004&theme=radical&no-bg=true&margin-w=15" />
 </p>
+
 
