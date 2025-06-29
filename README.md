@@ -54,7 +54,7 @@ I specialize in:
 
 ---
 
-### 📄 Resume / PGP
+### 📄 Resume 
 📥 [Click to Download Resume (PDF)](https://shorturl.at/fnYsf)  
 
 
