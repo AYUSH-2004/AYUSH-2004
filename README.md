@@ -17,35 +17,49 @@
 
 ---
 
-🌟 I'm a passionate B.Tech Computer Science student from Graphic Era Hill University , Dehradun; with a love for building impactful tech solutions 🚀.  
+🌟 I'm a passionate B.Tech Computer Science student from Graphic Era Hill University, Dehradun; with a love for building impactful tech solutions 🚀.  
 I specialize in:
 
-- 🔧 **Languages:** Java, Python, C++, DBMS , C
-- 📦 **Frameworks:** Flask, Bootstrap, React (beginner)
-- 🗃️ **CS Concepts:** OOP, DSA, OS, CN, Compiler Design , Databases
-- ☁️ **Cloud:** AWS Certified (Cloud Practitioner)
-- 🎨 **Creative Skills:** Certified Gold Artist & Sketch Enthusiast
+- 🔧 **Languages:** Java, Python, C++, DBMS, C  
+- 📦 **Frameworks:** Flask, Bootstrap, React (beginner)  
+- 🗃️ **CS Concepts:** OOP, DSA, OS, CN, Compiler Design, Databases  
+- ☁️ **Cloud:** AWS Certified (Cloud Practitioner)  
+- 🎨 **Creative Skills:** Certified Gold Artist & Sketch Enthusiast  
 
 ---
 
 ### 🔭 Projects
-- 🧠 **PicoC Interpreter** – A mini C interpreter with AST visualization.
-- 🧩 **Sudoku Validator Web App** – Frontend + Flask + C++ validator integration using Concept of Multithreading.
+- 🧠 **PicoC Interpreter** – A mini C interpreter with AST visualization.  
+- 🧩 **Sudoku Validator Web App** – Frontend + Flask + C++ validator integration using concept of multithreading.  
 
 ---
 
 ### 📚 Certifications
-- 🎓 **Deloitte Australia - Cyber Job Simulation**
-- ☁️ **AWS Cloud Practitioner Essentials**
-- 🛡️ **AWS Licence Member**
-- 🖌️ **Certification of Gold Artist**
+- 🎓 **Deloitte Australia - Cyber Job Simulation**  
+- ☁️ **AWS Cloud Practitioner Essentials**  
+- 🛡️ **AWS Licence Member**  
+- 🖌️ **Certification of Gold Artist**  
 
 ---
 
 ### 🌐 Connect with Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ayush-upreti-6390662a6/)
-- 📬 Email: ayushupreti@gmail.com
-- 🌐 [Portfolio Website](https://ayushupretiportfolio.framer.website/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ayush-upreti-6390662a6/)  
+- 📬 Email: ayushupreti@gmail.com  
+- 🌐 [Portfolio Website](https://ayushupretiportfolio.framer.website/)  
+
+---
+
+### 💬 Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+### 📈 Visitor Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AYUSH-2004&style=flat-square&color=blue" alt="visitor counter"/>
+</p>
 
 ---
 
@@ -65,3 +79,4 @@ I specialize in:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AYUSH-2004&theme=radical&no-bg=true&margin-w=15" />
 </p>
+
