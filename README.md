@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ayush Upreti</h1>
-<h3 align="center">🚀 Aspiring Software Developer | Cloud Enthusiast | B.Tech CSE | 2025</h3>
+<h3 align="center">🚀 Aspiring Software Developer | Programming Enthusiast | B.Tech CSE | 2025</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
@@ -17,12 +17,12 @@
 
 ---
 
-🌟 I'm a passionate B.Tech Computer Science student from Dehradun, with a love for building impactful tech solutions 🚀.  
+🌟 I'm a passionate B.Tech Computer Science student from Graphic Era Hill University , Dehradun; with a love for building impactful tech solutions 🚀.  
 I specialize in:
 
-- 🔧 **Languages:** Java, Python, C++, C
+- 🔧 **Languages:** Java, Python, C++, DBMS , C
 - 📦 **Frameworks:** Flask, Bootstrap, React (beginner)
-- 🗃️ **CS Concepts:** OOP, DSA, OS, CN, Compiler Design
+- 🗃️ **CS Concepts:** OOP, DSA, OS, CN, Compiler Design , Databases
 - ☁️ **Cloud:** AWS Certified (Cloud Practitioner)
 - 🎨 **Creative Skills:** Certified Gold Artist & Sketch Enthusiast
 
@@ -30,7 +30,7 @@ I specialize in:
 
 ### 🔭 Projects
 - 🧠 **PicoC Interpreter** – A mini C interpreter with AST visualization.
-- 🧩 **Sudoku Validator Web App** – Frontend + Flask + C++ validator integration.
+- 🧩 **Sudoku Validator Web App** – Frontend + Flask + C++ validator integration using Concept of Multithreading.
 
 ---
 
