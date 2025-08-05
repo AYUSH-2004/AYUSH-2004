@@ -50,12 +50,9 @@ I specialize in:
 ### 🌐 Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ayush-upreti-6390662a6/)  
 - 📬 Email: ayushupreti@gmail.com  
-- 🌐 [Portfolio Website](https://ayushupretiportfolio.framer.website/)  
+- 🌐 [Portfolio Website](https://ayushupreti-portfolio.netlify.app/)  
 
----
 
-### 📄 Resume 
-📥 [Click to Download Resume (PDF)](https://shorturl.at/fnYsf)  
 
 
 ---
